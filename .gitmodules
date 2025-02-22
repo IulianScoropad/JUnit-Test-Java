@@ -4,3 +4,6 @@
 [submodule "Car-Parc-Test-With-Mockito"]
 	path = Car-Parc-Test-With-Mockito
 	url = https://github.com/IulianScoropad/Car-Parc-Test-With-Mockito.git
+[submodule "Java-Unit-Test"]
+	path = Java-Unit-Test
+	url = https://github.com/IulianScoropad/Java-Unit-Test.git
